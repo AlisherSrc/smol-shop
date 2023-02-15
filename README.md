@@ -4,6 +4,6 @@ Small online shopping site
 
 What do I expect to learn from this project:
 
--TypeScript
--React states
--overall practice of clean code
+-TypeScript <br>
+-React states <br>
+-overall practice of clean code <br>
